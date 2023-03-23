@@ -8,8 +8,10 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Fermin Del Rosario
-	  23/03/23
         </p>
+	<p>
+	  Mexico 2023, Ver
+	</p>
         <a
           className="App-link"
           href="https://reactjs.org"
